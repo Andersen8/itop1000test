@@ -1,0 +1,3 @@
+usd: 840 -- "r030"
+eur: 978 -- "r030"
+url: https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?json

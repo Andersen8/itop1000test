@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+    background-color: var(--header-background-color);
+    border: 5px solid var(--header-border-color);
+    color: var(--header-color);
+}
+.currency_holder{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+}
+.ua{
+   margin: 0 5%; 
+   display: flex;
+   justify-content: center;
+}
+.ua:hover{
+    transform: scale(1.1, 1.1)
+}
+.icon{
+    
+}
+.uahrevert{
+    transform: scale(1, -1)
+}
+@media(max-width: 920px){
+    .currency_holder{
+        font-size: 20px;
+    }
+}
+@media(max-width: 650px){
+    .currency_holder{
+        font-size: 16px;
+    }
+}
+

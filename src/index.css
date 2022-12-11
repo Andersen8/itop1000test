@@ -1,0 +1,11 @@
+:root{
+    --header-background-color: darkblue;
+    --header-color: gold;
+    --header-border-color: gold;
+    --main-background-color: rgb(233, 233, 163);
+    --main-color: darkblue;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
